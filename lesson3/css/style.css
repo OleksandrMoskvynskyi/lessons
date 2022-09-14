@@ -1,0 +1,40 @@
+h1 {
+    color: brown;
+}
+
+.lit {
+    color: darkslateblue;
+}
+
+#first {
+    color: coral;
+}
+
+div.text {
+    color: blue;
+}
+
+h2,
+.textFinal {
+    color: darkgreen;
+}
+
+.list * {
+    color: dimgray;
+}
+
+.psevdoList>p {
+    color: tomato;
+}
+
+.list3~p {
+    color: indigo;
+}
+
+.list3 a {
+    color: rgb(0, 139, 123);
+}
+
+.theEnd+p {
+    color: darkgoldenrod;
+}
