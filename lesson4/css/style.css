@@ -21,7 +21,7 @@ h3 {
     font-weight: 700;
 }
 
-#red {
+#ind {
     color: indigo;
 }
 
@@ -62,6 +62,10 @@ footer {
 
 .text2~p {
     color: navy;
+}
+
+.next2 {
+    color: darkorchid;
 }
 
 p {
