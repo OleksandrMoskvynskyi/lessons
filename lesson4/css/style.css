@@ -1,0 +1,93 @@
+/*+++++++++++++++++++++++ Пріоритетність+шрифти ++++++++++++++++++++++++++*/
+
+header {
+    font-family: roboto;
+    font-weight: 400
+}
+
+
+h1 {
+    font-family: lato;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: lato;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: Larsseit;
+    font-weight: 700;
+}
+
+#red {
+    color: indigo;
+}
+
+.Larsseit500 span {
+    font-family: roboto;
+    font-weight: 700
+}
+
+.Larsseit500 .next {
+
+    font-family: roboto;
+    font-weight: 300;
+    color: darkcyan;
+
+}
+
+
+.textLarsseit400 {
+    font-family: Larsseit;
+    font-weight: 400;
+    color: darkslateblue;
+
+}
+
+
+footer {
+    font-family: roboto;
+    font-weight: 300
+}
+
+.text1>p {
+    color: black;
+}
+
+.text3+p {
+    color: green;
+}
+
+.text2~p {
+    color: navy;
+}
+
+p {
+    font-family: lato;
+    font-weight: 400;
+    color: brown;
+
+}
+
+div {
+    color: olive;
+}
+
+h5 span {
+    color: dimgray;
+}
+
+.Larsseit500 h5 {
+    color: darkgreen;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-family: Larsseit;
+    font-weight: 500;
+    color: blue;
+}
