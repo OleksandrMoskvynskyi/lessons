@@ -75,6 +75,15 @@ h4 {
     margin-bottom: 15px;
 }
 
+.part1 {
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+
+}
+
 .red~p {
     color: red;
 }
