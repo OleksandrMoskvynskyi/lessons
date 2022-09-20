@@ -1,0 +1,131 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: gainsboro;
+    padding: 15px 40px;
+}
+
+header,
+h1,
+h2,
+h3 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 10px;
+    text-decoration: overline;
+
+}
+
+img {
+    width: 250px;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: brown;
+    text-shadow: 2px 2px 5px #FC0
+}
+
+.text {
+    line-height: 20px;
+    text-align: justify;
+
+}
+
+h2 {
+    font-family: Myra-4f-Caps, serif;
+    font-weight: 700;
+    text-decoration: underline;
+
+}
+
+h4 {
+    font-family: NunitoSans, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: left;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: brown;
+
+}
+
+.intro {
+    text-indent: 20px;
+    margin-bottom: 15px;
+}
+
+.part1,
+.part3,
+.part5 {
+    margin-right: 20%;
+    margin-bottom: 15px;
+}
+
+.part2,
+.part4 {
+    margin-left: 20%;
+    margin-bottom: 15px;
+}
+
+.red~p {
+    color: red;
+}
+
+.dimgray+p {
+    word-spacing: 15px;
+    color: dimgray;
+}
+
+.part3>p {
+    color: darkblue;
+}
+
+.part4 {
+    background-color: aquamarine;
+    padding: 15px;
+}
+
+
+h5 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    text-align: right;
+    text-transform: lowercase;
+    color: brown;
+    margin-bottom: 10px;
+}
+
+.final {
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+
+footer {
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    background-color: khaki;
+    width: 300px;
+    margin-left: 30%;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+
+.foot {
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    text-shadow: -3px -2px 3px rgb(218, 107, 15);
+    background-color: rgb(205, 231, 186);
+    width: 140px;
+    margin: 10px;
+    padding: 10px 30px;
+}

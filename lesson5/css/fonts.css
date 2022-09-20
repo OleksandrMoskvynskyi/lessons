@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+
+
+@font-face {
+    font-family: NunitoSans;
+    src: url(../fonts/NunitoSans-LightItalic.woff2) format("woff2"),
+        url(../fonts/NunitoSans-LightItalic.woff) format("woff");
+    font-display: swap;
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Myra-4f-Caps;
+    src: url(../fonts/myra-4f-caps-bold.woff2) format("woff2"),
+        url(../fonts/myra-4f-caps-bold.woff) format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
