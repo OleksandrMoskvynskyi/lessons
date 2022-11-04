@@ -1,0 +1,219 @@
+[class*="--container"] {
+    max-width: 810px;
+    margin: 0 auto;
+    color: #424551;
+    font-family: lato;
+}
+
+.page--title {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    color: #1E212C;
+    margin-bottom: 26px;
+}
+
+.page--image {
+    max-width: 100%;
+    margin-bottom: 60px;
+}
+
+.main--text {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    margin-bottom: 24px;
+    color: #1E212C;
+}
+
+.page--text {
+    line-height: 160%;
+    margin-bottom: 48px;
+}
+
+.page--text p {
+    margin-bottom: 22px;
+}
+
+.page--text ul {
+    margin-bottom: 24px;
+}
+
+.page--text li {
+    margin-bottom: 4px;
+    padding-left: 32px;
+    background: url(../img/check.png) 0 6px no-repeat;
+}
+
+.text--blockquote {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    margin-bottom: 48px;
+    background: url(../img/braces.png) 0 0 no-repeat;
+    padding-left: 58px;
+}
+
+
+
+.trening {
+    font-family: "Montserrat", sans-serif;
+    padding: 15px 40px;
+}
+
+.block {
+    background-color: darkseagreen;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.block1 {
+    background-color: blueviolet;
+    background-image: url("../img/bgi.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    max-width: 400px;
+    height: 100px;
+    padding: 10px;
+    display: inline-block;
+    overflow: hidden;
+    margin: 15px;
+    border: 5px solid rgb(93, 5, 49);
+}
+
+.block2 {
+    background-color: blueviolet;
+    max-width: 400px;
+    height: 100px;
+    padding: 10px;
+    display: inline-block;
+    overflow: scroll;
+    margin: 15px;
+    border-top: 5px dotted rgb(93, 5, 49);
+    border-left: 5px dotted rgb(93, 5, 49);
+    opacity: 70%;
+}
+
+.block3 {
+    background: repeating-radial-gradient(circle farthest-corner at center center, #ebe3e3 0%, #00fa00 20%);
+    max-width: 600px;
+    height: 100px;
+    padding: 10px;
+    display: inline-block;
+    overflow: auto;
+    margin: 15px;
+    border: 5px dashed rgb(93, 5, 49);
+    outline: 5px solid rgb(251, 251, 251);
+}
+
+
+.block4 {
+    background-color: aqua;
+    max-width: 200px;
+    height: 100px;
+    padding: 10px;
+    display: inline-block;
+    overflow: auto;
+    margin: 10px;
+}
+
+.block5 {
+    background-image: url("../img/fon2.png");
+    background-position: 8% 5%;
+    background-attachment: fixed;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    display: inline-block;
+    overflow: auto;
+    margin: 10px;
+
+}
+
+.circle {
+    background-color: lightsteelblue;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 50%;
+    font-weight: 600;
+    overflow: hidden;
+    box-shadow: 7px 7px 7px #000, inset 7px 7px 7px #000;
+}
+
+.block6 {
+    background-color: blanchedalmond;
+    width: 600px;
+    height: 100px;
+    display: block;
+    overflow: auto;
+    margin: 0 0 0 auto;
+    outline: 5px solid rgb(146, 195, 156);
+}
+
+a {
+    outline: 1px solid rgb(146, 195, 156);
+    font-weight: 700;
+    font-size: 50px;
+    outline: 1px solid red;
+
+}
+
+.img {
+    width: 200px;
+    border-radius: 30%;
+    margin: 20px;
+}
+
+.block7 {
+    width: 300px;
+    height: 200px;
+    background-image: url("../img/fon2.jpg");
+    margin: 50px 15px;
+    display: inline-block;
+
+}
+
+.block8 {
+    width: 300px;
+    height: 200px;
+    background-color: antiquewhite;
+    background-image: url("../img/fon2.jpg");
+    background-repeat: repeat-x;
+    margin: 50px 15px;
+    display: inline-block;
+}
+
+
+.block9 {
+    width: 300px;
+    height: 200px;
+    background-color: antiquewhite;
+    background-image: url("../img/fon2.jpg");
+    background-repeat: no-repeat;
+    margin: 50px 15px;
+    display: inline-block;
+}
+
+.block10 {
+    width: 300px;
+    height: 200px;
+    background-color: antiquewhite;
+    background-image: url("../img/fon2.jpg");
+    background-repeat: no-repeat;
+    background-position: 30% 40%;
+    margin: 50px 15px;
+    display: inline-block;
+}
+
+.circle2 {
+    background-color: lightsteelblue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    font-weight: 600;
+    overflow: hidden;
+    box-shadow: 4px 0px 17px 15px rgb(194, 194, 72);
+    margin: 0 auto;
+}
